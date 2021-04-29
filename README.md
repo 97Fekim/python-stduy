@@ -1,2 +1,1 @@
-# python-study
-# with inflearn
+# python-study with inflearn
