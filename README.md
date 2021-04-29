@@ -1,2 +1,2 @@
-# python-stduy
+# python-study
 # with inflearn
